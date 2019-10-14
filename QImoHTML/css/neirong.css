@@ -1,0 +1,231 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	
+}
+
+body
+{
+	background: #ffffff;
+	font-size: 16px;
+	font-family: 微软雅黑;
+	color: #020202;
+	overflow-x: hidden;
+}
+
+a
+{
+	color:#c23434; 
+}
+
+a:hover
+{
+	color: #020202
+}
+
+.Head_one
+{
+	height:30px;
+	background: #c23434;
+}
+
+.Menu
+{
+	background:url(../img/a8bb0590a2e3230a17eea6f2926ed022.png) no-repeat;
+	height: 63px;
+	margin-bottom: 2px;
+}
+
+.meNu
+{
+	background:url(../img/a8bb0590a2e3230a17eea6f2926ed022.png) no-repeat;
+	padding-left: 70px;
+	width: 1270px;
+	height: 63px;
+	margin: auto;
+}
+
+.meNu ul
+{
+}
+
+.yiji
+{
+	float: left;
+	margin-left:40px;
+	line-height:63px;
+}
+
+
+
+.yiji a
+{
+	display: block;
+	height: 63px;
+	width: 158px;
+	/*transform:skew(-15deg); */  
+	float: left;
+	text-align: center;
+	font-weight: bold;
+}
+
+.yiji a:hover
+{
+	background: #c23434;
+	color:#F3F3F3
+}
+
+.yiji ul
+{
+	margin: 0;
+	width: 158px;
+	position: relative;
+	z-index: 1;
+}
+
+.yiji ul li
+{
+		
+	background: #fff;
+	float: none;
+	margin-left: 0px;
+}
+
+.yiji ul li a
+{
+	font-weight: normal;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	background: #ddd
+}
+
+.outbox
+{
+	height: 490px;
+	width: 1990px;
+	position: relative;
+	left: 50%;
+	margin-left: -995px;
+}
+
+.huandeng
+{
+	width:5970px;
+	position:absolute;
+	height:490px;
+}
+
+.huandeng li
+{
+	float: left;
+}
+.outbox_main
+{
+	background: url(../img/BAck2.png) center no-repeat #e1dfdf;
+	min-height: 1200px;
+}
+
+
+.Main
+{
+	width: 1300px;
+	left: 20px;
+	margin: auto;
+	padding: 5px;
+	padding: 30px;
+	min-height: 1140px
+}
+
+.title
+{
+	text-align: center;
+	padding-bottom: 15px;
+	border-bottom: 8px solid #c23434;
+	margin-bottom: 40px;
+}
+
+.zwen
+{
+	margin-top: 30px;
+	border: 1px solid #000;
+	line-height: 32px;
+	min-height: 500px;
+}
+
+.leFt
+{
+	margin-left: 20px;
+	float:left;
+}
+
+.Right
+{
+	margin-right: 20px;
+	float: right;
+}
+
+.fanhui
+{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.Foot
+{
+	margin-top: 30px;
+	height: 200px;
+	background: #c23434;
+	padding-top: 150px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.Foot ul
+{
+
+	width:300px;
+
+	float: left;
+}
+
+.Foot ul li
+{
+	margin-bottom: 10px
+}
+
+.Foot_tp
+{
+	float: right
+}
+
+.Foot a
+{
+	color:#F3f3f3;
+}
+
+.Foot ul li a:hover
+{
+	color: #aaaaaa
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
